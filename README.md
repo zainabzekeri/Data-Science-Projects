@@ -1,36 +1,21 @@
-# Titanic Survival Analysis and Classification
+# Data Science Projects
 
-This project explores and analyzes the Titanic dataset using Python, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+Welcome to my Data Science Projects repository.
 
-## Objective
-
-To explore the Titanic dataset, clean and preprocess the data, visualize relationships between variables, and build a machine learning model to predict passenger survival.
+This repository contains projects I built while learning Data Science using Python.
 
 ## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
+## Projects
+- Titanic Survival Analysis and Classification
+- KNN Iris Classification
 
-## Tasks Performed
-
-* Loaded and explored the Titanic dataset
-* Examined dataset structure and columns
-* Performed exploratory data analysis (EDA)
-* Created count plots, heatmaps, and boxplots
-* Identified and handled missing values
-* Applied one-hot encoding using `get_dummies()`
-* Cleaned and prepared data for modeling
-* Split data into training and testing sets
-* Built a Logistic Regression classification model
-* Evaluated the model using a classification report
-
-## Learning Outcome
-
-This project improved my understanding of data exploration, data preprocessing, feature engineering, visualization, and classification modeling using Python and Scikit-learn.
+I am continuously learning and adding new projects as I grow in Data Analytics and Data Science.
 
 — Zainab Zekeri
